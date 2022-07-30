@@ -50,7 +50,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"CliqueLoadingScreen/Scripts/3_Game"
+					"CliqueLoadingScreen/scripts/3_Game"
 					//! Mod name/Scripts/3_Game
 				};
 			};
@@ -59,7 +59,7 @@ class CfgMods
 				value = "";
 				files[] = 
 				{
-					"CliqueLoadingScreen\scripts\5_Mission"
+					"CliqueLoadingScreen/scripts/5_Mission"
 				};
 			};
 		};

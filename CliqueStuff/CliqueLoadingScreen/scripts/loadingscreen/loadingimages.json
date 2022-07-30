@@ -3,21 +3,21 @@
         "MapName": "default",
         "Path":
         [
-            "CliqueLoadingScreen/Scripts/LoadingScreen/LoadingScreen.edds"
+            "CliqueLoadingScreen/scripts/LoadingScreen/LoadingScreen.edds"
         ]
     },
     {
         "MapName": "chernarusplus",
         "Path":
         [
-            "CliqueLoadingScreen/Scripts/LoadingScreen/LoadingScreen.edds"
+            "CliqueLoadingScreen/scripts/LoadingScreen/LoadingScreen.edds"
         ]
     },
     {
         "MapName": "Namalsk",
         "Path":
         [
-            "CliqueLoadingScreen/Scripts/LoadingScreen/LoadingScreen.edds"
+            "CliqueLoadingScreen/scripts/LoadingScreen/LoadingScreen.edds"
         ]
     }
 ]

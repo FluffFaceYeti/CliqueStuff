@@ -1,7 +1,7 @@
 //! Where are the files located
-const string LOADING_SCREENS_PATH 	= "CliqueLoadingScreen/Scripts/LoadingScreen/LoadingImages.json";
-const string LOADING_MESSAGES_PATH 	= "CliqueLoadingScreen/Scripts/LoadingScreen/LoadingMessages.json";
-const string LOADING_SCREEN_LOGO 	= "CliqueLoadingScreen/Scripts/LoadingScreen/NamalskBigLogo.edds";
+const string LOADING_SCREENS_PATH 	= "CliqueLoadingScreen/scripts/LoadingScreen/LoadingImages.json";
+const string LOADING_MESSAGES_PATH 	= "CliqueLoadingScreen/scripts/LoadingScreen/LoadingMessages.json";
+const string LOADING_SCREEN_LOGO 	= "CliqueLoadingScreen/scripts/LoadingScreen/NamalskBigLogo.edds";
 									//! ModName/Path/File
 //github2
 //! true  = yes
